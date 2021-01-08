@@ -19,8 +19,8 @@
 2. funcion principal()
 3.     opcion, i[0-n]
 4.     Escribir "Ingresar 1 para calcular el área de un cuadrado"
-5.     Escribir "Ingresar 1 para calcular el área de un triángulo"
-6.     Escribir "Ingresar 1 para calcular el área de un rectángulo: "
+5.     Escribir "Ingresar 2 para calcular el área de un triángulo"
+6.     Escribir "Ingresar 3 para calcular el área de un rectángulo: "
 7.     Leer opción
 8.     Dependiendo_De (opcion)
 9.         Opcion 1
